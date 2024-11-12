@@ -1,0 +1,36 @@
+body{
+    color:green;
+
+}
+
+h1{
+    color: blue;
+}
+
+#myname{
+    background-color: lightblue;
+    width: 50%;
+    place-items: center;
+    justify-content: center;
+    margin: auto;
+    border: 5px solid blue;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+#name{
+    display: flex;
+    
+}
+
+body div{
+    
+   place-items: center;
+   justify-content: center;
+   padding: 20px;
+}
+#parameter{
+    color: black;
+    text-align: center;
+    display: grid;
+}

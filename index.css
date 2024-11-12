@@ -1,0 +1,19 @@
+body { 
+    background-color: rgba(67, 189, 26, 0.635);
+    place-content: center;
+    display:grid;
+
+}
+
+body div p{
+    color: blueviolet;
+}
+
+
+#mytext{
+    justify-content: center;
+    width:50%;
+    display:grid;
+    align-content: center;
+    place-content: center;
+}
